@@ -1,0 +1,5 @@
+include *.rst
+include *.md
+include *.txt
+include LICENSE
+recursive-include simple_form/templates *
